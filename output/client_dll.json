@@ -7411,22 +7411,17 @@
         },
         "type": "uint32"
       },
-      "_4__h_": {
+      "_5____": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
       },
-      "_M__h_": {
+      "_Z____": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
       },
-      "_Y__h_": {
-        "alignment": 0,
-        "members": {},
-        "type": "unknown"
-      },
-      "____h_": {
+      "______": {
         "alignment": 0,
         "members": {},
         "type": "unknown"
